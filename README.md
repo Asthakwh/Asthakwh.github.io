@@ -43,22 +43,6 @@ I specialize in building robust cloud-native solutions that balance **performanc
 
 ---
 
-### 📈 Skills Breakdown
-
-```
-DevOps & Infrastructure Automation   ████████████████████ 95%
-Kubernetes & Container Orchestration ███████████████████ 90%
-Cloud Architecture (AWS/Azure)       ███████████████████ 90%
-CI/CD Pipeline Design                ████████████████████ 95%
-Monitoring & Observability           ██████████████████ 85%
-Infrastructure as Code               ████████████████████ 95%
-System Administration                ██████████████████ 85%
-Linux                                ████████████████████ 95%
-
-```
-
----
-
 ### 🚀 What I'm Building
 
 <table>
