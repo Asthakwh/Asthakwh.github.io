@@ -8,7 +8,9 @@ I specialize in building robust cloud-native solutions that balance **performanc
 ┌─────────────────────────────────────────────────────────────────┐
 │  Expertise Areas                                                │
 ├─────────────────────────────────────────────────────────────────┤
-│  ✓ CI/CD Pipeline Design & Implementation                       │     
+│  ✓ Linux Administration                                         │
+│  ✓ Windows Active Directory                                     │
+│  ✓ AWS Cloud, EC2, IAM, S3, VPC, Cloudwatch                     │    
 │  ✓ Infrastructure as Code (Terraform, CloudFormation)           │
 │  ✓ Monitoring, Logging & Observability Solutions                │
 │  ✓ Cloud Architecture & Cost Optimization                       │
