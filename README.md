@@ -2,14 +2,6 @@
 
 ## Cloud & DevOps Engineer | System Administration
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  I design and automate scalable, secure infrastructures           ║
-║  2+ Years of hands-on DevOps & Cloud Architecture Experience      ║
-║  Building CI/CD pipelines.                                        ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 ### 🎯 What I Do
